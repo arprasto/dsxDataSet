@@ -46,3 +46,8 @@ def getEucladianFactForCustomer(cust_id):
 
 
 getCustomerDeltaIncludingAllItems('cust1273767').show()
+
+
+
+
+
